@@ -1,6 +1,6 @@
 package com.mehmetc.Ornekler;
 
-public class ornek1 {
+public class Ornek1 {
 	public static void main(String[] args) {
 		int yas=35;
 		if (yas>0 && yas<18){
